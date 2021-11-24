@@ -1,0 +1,22 @@
+{
+  "reports": [
+    {
+      "reportDate": "2020-09-13",
+      "litersMilk": 767,
+      "inventoryConsumed": {
+        "rentMilk": 3,
+        "salt": 6,
+        "preLactation": 0
+      }
+    },
+    {
+      "reportDate": "2020-08-19",
+      "litersMilk": 176,
+      "inventoryConsumed": {
+        "rentMilk": 1,
+        "salt": 3,
+        "preLactation": 8
+      }
+    }
+  ]
+}

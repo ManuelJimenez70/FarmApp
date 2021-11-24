@@ -1,0 +1,34 @@
+{
+  "breeds": [
+    {
+      "name": "Jersey",
+      "description": "Raza de ganado vacuno britanico productor de leche, de pelaje marron claro.",
+      "icon": "resources/images/breeds/Jersey.png"
+    },
+    {
+      "name": "Holstein",
+      "description": "Raza vacuna procedente de la region frisosajona, que destaca por su alta producción de leche, carne y su adaptabilidad.",
+      "icon": "resources/images/breeds/Holstein.png"
+    },
+    {
+      "name": "Normando",
+      "description": "Raza de ganado lechero de la region de Normandia. Es criado principalmente por su leche.",
+      "icon": "resources/images/breeds/Normando.png"
+    },
+    {
+      "name": "Simmenthal",
+      "description": "Raza de ganado vacuno suizo, productora de leche y de carne.",
+      "icon": "resources/images/breeds/Simmenthal.png"
+    },
+    {
+      "name": "Holstein Rojo",
+      "description": "Animales elegantes, con modelo de color rojo y blanco, que destaca por su alta produccion de leche.",
+      "icon": "resources/images/breeds/Holstein Rojo.png"
+    },
+    {
+      "name": "Otro",
+      "description": "No tenemos la raza en la lista...",
+      "icon": "resources/images/breeds/Otro.png"
+    }
+  ]
+}
